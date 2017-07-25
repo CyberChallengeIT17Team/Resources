@@ -10,6 +10,7 @@ angr | https://github.com/angr
 ROP | https://github.com/JonathanSalwan/ROPgadget
 Metasploit | https://github.com/rapid7/metasploit-framework
 Nmap | https://github.com/nmap/nmap
+Hydra | https://tools.kali.org/password-attacks/hydra
 Exploit Database | https://github.com/offensive-security/exploit-database
 Nessus Home | https://www.tenable.com/products/nessus-home
 OpenVAS | http://www.openvas.org/

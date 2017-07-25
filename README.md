@@ -18,3 +18,13 @@ Cygwin | https://www.cygwin.com/
 Immunity Debugger | https://www.immunityinc.com/products/debugger/
 pestudio | https://www.winitor.com/
 Regshot | https://sourceforge.net/projects/regshot/
+
+# References
+
+Name | Link
+---- | ----
+IBM X-Force Exchange | https://exchange.xforce.ibmcloud.com/
+CVE | https://cve.mitre.org/
+Security Focus | http://www.securityfocus.com/
+Krebs on Security | https://krebsonsecurity.com/
+

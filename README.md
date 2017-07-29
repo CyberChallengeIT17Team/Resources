@@ -19,6 +19,7 @@ Cygwin | https://www.cygwin.com/
 Immunity Debugger | https://www.immunityinc.com/products/debugger/
 pestudio | https://www.winitor.com/
 Regshot | https://sourceforge.net/projects/regshot/
+VirusTotal | https://www.virustotal.com/
 
 # References
 

@@ -28,4 +28,4 @@ IBM X-Force Exchange | https://exchange.xforce.ibmcloud.com/
 CVE | https://cve.mitre.org/
 Security Focus | http://www.securityfocus.com/
 Krebs on Security | https://krebsonsecurity.com/
-
+Practical Malware Analysis | https://practicalmalwareanalysis.com/

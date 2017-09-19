@@ -1,6 +1,10 @@
 # FORENSICS
 
-Useful commands are file, hexdump, dd, strings, bgrep, base64, binwalk
+Useful commands are file, hexdump, dd, strings, bgrep, base64
+
+## Miscellaneus
++ https://github.com/devttys0/binwalk
++ http://foremost.sourceforge.net/
 
 ## Memory dump
 + https://github.com/volatilityfoundation/volatility
